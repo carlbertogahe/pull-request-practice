@@ -1,4 +1,4 @@
-# pull-request-practice
+# pull-request-practice good
 
 - これは書籍[「わかばちゃんと学ぶGit使い方入門」](https://amzn.to/2GfKnnd)のプルリクエスト練習用リポジトリです。
 - プルリクを送る練習が自由にできます
